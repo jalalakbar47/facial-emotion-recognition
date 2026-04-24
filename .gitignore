@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+ENV/
+env/
+.env
+
+# Models & Heavy data
+.deepface/
+weights/
+*.h5
+*.pb
+
+# Project Logs & Data
+emotion_log.csv
+snapshots/
+*.png
+*.jpg
+*.jpeg
+*.mp4
+!screenshots/
+!screenshots/*
+
+# IDEs
+.vscode/
+.idea/
