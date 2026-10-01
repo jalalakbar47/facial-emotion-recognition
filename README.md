@@ -1,5 +1,11 @@
 # EmotionAI — Real-time Facial Emotion Recognition
 
+[![Top language](https://img.shields.io/github/languages/top/jalalakbar47/facial-emotion-recognition?style=for-the-badge)](https://github.com/jalalakbar47/facial-emotion-recognition/search?l=html)
+[![GitHub stars](https://img.shields.io/github/stars/jalalakbar47/facial-emotion-recognition?style=for-the-badge)](https://github.com/jalalakbar47/facial-emotion-recognition/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/jalalakbar47/facial-emotion-recognition?style=for-the-badge)](https://github.com/jalalakbar47/facial-emotion-recognition/network/members)
+[![Open issues](https://img.shields.io/github/issues/jalalakbar47/facial-emotion-recognition?style=for-the-badge)](https://github.com/jalalakbar47/facial-emotion-recognition/issues)
+[![Last commit](https://img.shields.io/github/last-commit/jalalakbar47/facial-emotion-recognition?style=for-the-badge)](https://github.com/jalalakbar47/facial-emotion-recognition/commits/main)
+
 A high-performance facial emotion recognition dashboard built with **DeepFace**, **OpenCV**, and **Flask**. Features a premium dark-mode UI with real-time camera streaming, image upload analysis, and live emotion breakdown charts.
 
 ## 📸 Screenshots
